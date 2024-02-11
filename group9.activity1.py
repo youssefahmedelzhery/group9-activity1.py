@@ -1,4 +1,4 @@
-from turtle import Screen, Turtle
+from turtle import Screen, Turtl
 
 #student 1: yousef ahmed elzheiri
 #student 2: khalid abdulkader
