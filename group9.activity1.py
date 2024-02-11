@@ -13,7 +13,7 @@ wind.title("activity 1")
 wind.bgcolor("light yellow")
 
 
-
+# this part is done by mohammed Ghawi 
 def hexigon(turta, border_color, hexa_color):
     turta.penup()
     turta.setpos(-250, 250)
