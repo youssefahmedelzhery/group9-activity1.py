@@ -1,8 +1,12 @@
-from turtle import Screen, Turtle
-
+'''
 #student 1: yousef ahmed elzheiri
 #student 2: khalid abdulkader
 #student 3: mohamed gawi
+'''
+
+from turtle import Screen, Turtle
+
+
  
 wind = Screen()
 wind.title("activity 1")
