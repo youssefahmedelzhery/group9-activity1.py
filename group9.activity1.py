@@ -91,7 +91,7 @@ def hexigon(turta, border_color, hexa_color):
     turta.end_fill()
 
 
-
+# this part is done by Khalid Abdalkader
 def circle(turta, border_color, circle_color):
     turta.penup()
     turta.setpos(-100, 165)
@@ -125,7 +125,7 @@ def circle(turta, border_color, circle_color):
     turta.setheading(0)
 
     
-
+# this part is done by Yousef Elzheri
 def square(turta, border_color, square_color):
     turta.penup()
     turta.setpos(0, 250)
